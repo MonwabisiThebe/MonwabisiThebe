@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Monwabisi Thebe
@@ -17,7 +16,6 @@ Exploring data, developing predictive models, and understanding the stories behi
 </a>
 
 </div>
-```
 
 ---
 
